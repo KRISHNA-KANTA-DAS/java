@@ -1,4 +1,3 @@
-
 import java.util.*;
 public class primenum {
     public static void main(String args[]) {
